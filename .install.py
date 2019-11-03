@@ -1,5 +1,5 @@
-# Tool Name :- Tool-X
-# Author :- Rajkumar dusad
+# Tool Name :- RT-Sploit
+# Author :- Krishnaraj
 # Date :- 1/11/2017
 # Powered By :- Aex Software's
 
